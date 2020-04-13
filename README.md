@@ -28,4 +28,11 @@ _[Any narrative content may be provided here by the TC, for example, if the Memb
 
 ## Contact
 
+The maintainers for this repository are: 
+
+- Robert O'Brien, robert.obriand@omnyon.com
+- David Lemire, david.lemire@hii-tsd.com
+
+- 
+
 Please send questions or comments about [OASIS TC GitHub repositories](https://www.oasis-open.org/resources/tcadmin/github-repositories-for-oasis-tc-members-chartered-work) to the [OASIS TC Administrator](mailto:tc-admin@oasis-open.org").  For questions about content in this repository, please contact the TC Chair or Co-Chairs as listed on the the OpenC2[home page](https://www.oasis-open.org/committees/openc2/).
