@@ -24,7 +24,7 @@ Please see the [LICENSE](https://github.com/oasis-tcs/openc2-gglpubsub/blob/mast
 
 ## Further Description of this Repository
 
-__[Any narrative content may be provided here by the TC, for example, if the Members wish to provide an extended statement of purpose.]__
+_[Any narrative content may be provided here by the TC, for example, if the Members wish to provide an extended statement of purpose.]_
 
 ## Contact
 
