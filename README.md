@@ -1,6 +1,6 @@
 # README
 
-Members of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/openc2/) create and manage technical content in this TC GitHub repository ( https://github.com/oasis-tcs/openc2-gglpubsub ) as part of the TC's chartered work (__i.e.__, the program of work and deliverables described in its [charter](https://www.oasis-open.org/committees/openc2/charter.php).
+Members of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/openc2/) create and manage technical content in this TC GitHub repository ( https://github.com/oasis-tcs/openc2-cloudpubsub ) as part of the TC's chartered work (__i.e.__, the program of work and deliverables described in its [charter](https://www.oasis-open.org/committees/openc2/charter.php).
 
 OASIS TC GitHub repositories, as described in [GitHub Repositories for OASIS TC Members' Chartered Work](https://www.oasis-open.org/resources/tcadmin/github-repositories-for-oasis-tc-members-chartered-work), are governed by the OASIS [TC Process](https://www.oasis-open.org/policies-guidelines/tc-process), [IPR Policy](https://www.oasis-open.org/policies-guidelines/ipr), and other policies, similar to TC Wikis, TC JIRA issues tracking instances, TC SVN/Subversion repositories, etc. While they make use of public GitHub repositories, these TC GitHub repositories are distinct from [OASIS TC Open Repositories](https://www.oasis-open.org/resources/open-repositories), which are used for development of open source [licensed](https://www.oasis-open.org/resources/open-repositories/licenses) content.
 
@@ -16,11 +16,11 @@ applied when using the GCP Pub/Sub implementation for conveying OpenC2 command a
 
 ## Contributions
 
-As stated in this repository's [CONTRIBUTING file](https://github.com/oasis-tcs/openc2-gglpubsub/blob/master/CONTRIBUTING.md), contributors to this repository are expected to be Members of the OASIS OpenC2 TC, for any substantive change requests. Anyone wishing to contribute to this GitHub project and [participate](https://www.oasis-open.org/join/participation-instructions) in the TC's technical activity is invited to join as an OASIS TC Member. Public feedback is also accepted, subject to the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa).
+As stated in this repository's [CONTRIBUTING file](https://github.com/oasis-tcs/openc2-cloudpubsub/blob/master/CONTRIBUTING.md), contributors to this repository are expected to be Members of the OASIS OpenC2 TC, for any substantive change requests. Anyone wishing to contribute to this GitHub project and [participate](https://www.oasis-open.org/join/participation-instructions) in the TC's technical activity is invited to join as an OASIS TC Member. Public feedback is also accepted, subject to the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa).
 
 ## Licensing
 
-Please see the [LICENSE](https://github.com/oasis-tcs/openc2-gglpubsub/blob/master/LICENSE.md) file for description of the license terms and OASIS policies applicable to the TC's work in this GitHub project. Content in this repository is intended to be part of the OpenC2 TC's permanent record of activity, visible and freely available for all to use, subject to applicable OASIS policies, as presented in the repository [LICENSE](https://github.com/oasis-tcs/openc2-gglpubsub/blob/master/LICENSE.md).
+Please see the [LICENSE](https://github.com/oasis-tcs/openc2-cloudpubsub/blob/master/LICENSE.md) file for description of the license terms and OASIS policies applicable to the TC's work in this GitHub project. Content in this repository is intended to be part of the OpenC2 TC's permanent record of activity, visible and freely available for all to use, subject to applicable OASIS policies, as presented in the repository [LICENSE](https://github.com/oasis-tcs/openc2-cloudpubsub/blob/master/LICENSE.md).
 
 ## Further Description of this Repository
 
