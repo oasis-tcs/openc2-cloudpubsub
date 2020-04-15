@@ -14,6 +14,29 @@ Open Command and Control (OpenC2) is a concise and extensible language to enable
 This document describes the use of GCP Pub/Sub as a transfer mechanism for OpenC2 messages, and captures experience and lessons learned from utilizing GCP Pub/Sub at the January 2020 OpenC2 Plug Fest. The information contained within this document can be
 applied when using the GCP Pub/Sub implementation for conveying OpenC2 command and response messages, and may also be useful with other publish / subscribe protocol implementations.
 
+## Branching Strategy
+
+This repository is organized with three branches:
+
+ * The *_Working_* branch contains work product 
+ material that is actively being developed, and 
+ subject to potentially frequent and significant 
+ change. Contributors to the work product should 
+ target their inputs to the Working branch.
+
+ * The *_Releases_* branch contains incremental 
+ releases (i.e., Working Drafts [WDs]) of the work 
+ product. The current contents of the Working 
+ branch are merged into the Releases branch to 
+ create a WD. 
+
+ * The *_Master_* branch contains TC-approved 
+[Committee Specification](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dCommitteeSpec) (CS) or [OASIS Standard](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dOASISstandard) 
+versions of the work product. Until the first CS 
+is approved, the Master branch will not contain 
+a complete version of the work product.
+
+
 ## Contributions
 
 As stated in this repository's [CONTRIBUTING file](https://github.com/oasis-tcs/openc2-cloudpubsub/blob/master/CONTRIBUTING.md), contributors to this repository are expected to be Members of the OASIS OpenC2 TC, for any substantive change requests. Anyone wishing to contribute to this GitHub project and [participate](https://www.oasis-open.org/join/participation-instructions) in the TC's technical activity is invited to join as an OASIS TC Member. Public feedback is also accepted, subject to the terms of the [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa).
